@@ -19,11 +19,9 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Software Engineer** at [Salescode.ai](https://salescode.ai/) — building KPI analytics infrastructure for 50+ teams
-- ⚡ Reduced query latency by **~30%** and automated pipelines cutting manual effort by **40%**
-- 🔭 Currently working on high-concurrency Java/Netty services and Elasticsearch systems
-- 🌱 Always exploring distributed systems, event-driven architecture, and system design
-- 🏆 **Lead Performer Award** — recognized for high-impact backend contributions
+- Constantly tinkering — if it's new, I'm probably already trying it out
+- Primarily write Java, TypeScript, Go, and Python
+- Just here to build cool stuff
 - 📬 Reach me at **tushar27x@proton.me**
 
 ---
