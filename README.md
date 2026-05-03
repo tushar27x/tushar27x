@@ -1,33 +1,130 @@
-<h1 align="center">Hi 👋, I'm Tushar Sharma</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tushar+Sharma+%F0%9F%91%8B;Software+Engineer+%40+Salescode.ai;Backend+%7C+Systems+%7C+Performance" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tushar27x&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-  <a href="https://twitter.com/iamtushar_27" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/iamtushar_27?logo=twitter&style=flat" alt="twitter-follow" />
+<br/>
+
+<div align="center">
+  <a href="https://tushar27x-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/tushar-sharma-01961b22b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tushar27x@proton.me">
+    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/tushar_2703" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://twitter.com/iamtushar_27" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-### 👨‍💻 About Me
-- 🌐 All my projects are available on my portfolio: [Portfolio](https://portfolio-gules-tau-95.vercel.app/)  
-- 💬 Ask me about **React.js, Next.js, Node.js, MongoDB, Java, Elasticsearch, Go, SQL**  
-- 📫 Reach me at: **sharma.tushar.271003@gmail.com**
+## 👨‍💻 About Me
+
+- 🏢 **Software Engineer** at [Salescode.ai](https://salescode.ai/) — building KPI analytics infrastructure for 50+ teams
+- ⚡ Reduced query latency by **~30%** and automated pipelines cutting manual effort by **40%**
+- 🔭 Currently working on high-concurrency Java/Netty services and Elasticsearch systems
+- 🌱 Always exploring distributed systems, event-driven architecture, and system design
+- 🏆 **Lead Performer Award** — recognized for high-impact backend contributions
+- 📬 Reach me at **tushar27x@proton.me**
 
 ---
 
-### 🌍 Connect with Me
-<p align="left">
-<a href="https://twitter.com/iamtushar_27" target="blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" height="40" width="40"/></a>
-<a href="https://www.instagram.com/tushar27x_/" target="blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="40" width="40"/></a>
-<a href="https://www.leetcode.com/tushar_2703" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" width="40"/></a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Backend & Systems**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,go,mongodb,mysql,elasticsearch,postman,git,tailwind,figma" />
-</p>
+## 🚀 Featured Projects
 
+### 🔍 [InsightsHub — GitHub Analytics Platform](https://github.com/tushar27x)
+> AI-powered developer analytics engine using LLMs to generate automated code behaviour insights
+
+`FastAPI` `Next.js` `PostgreSQL` `Redis` `GraphQL` `LLM` `OAuth2`
+
+- Built async data pipelines for repository analysis and GitHub data ingestion
+- Redis caching + GraphQL batching to cut redundant API calls significantly
+- Secure OAuth2 + JWT-based session management
+
+---
+
+### ⚡ [Real-Time Event Processing Platform](https://github.com/tushar27x)
+> Production-grade event-driven system with idempotent consumers and full observability
+
+`Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `Redis` `Prometheus` `Grafana`
+
+- Kafka pipelines with DLQ handling and exactly-once processing via Redis deduplication
+- Real-time Kafka consumer lag monitoring and system health dashboards
+- Retry mechanisms and fault-tolerant distributed system patterns
+
+---
+
+### 🎵 Music Library API &nbsp;|&nbsp; 🖥️ Personal Shell
+> `Go · Gin · PostgreSQL · JWT · Docker` &nbsp;&nbsp;|&nbsp;&nbsp; `Go · CLI · System Programming`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar27x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar27x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tushar27x&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushar27x&label=Profile+Views&color=6E40C9&style=flat-square" />
+</div>
