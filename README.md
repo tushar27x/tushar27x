@@ -74,7 +74,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 [InsightsHub — GitHub Analytics Platform](https://github.com/tushar27x)
+### 🔍 [InsightsHub — GitHub Analytics Platform](https://github.com/tushar27x/insight_hub)
 > AI-powered developer analytics engine using LLMs to generate automated code behaviour insights
 
 `FastAPI` `Next.js` `PostgreSQL` `Redis` `GraphQL` `LLM` `OAuth2`
@@ -85,7 +85,7 @@
 
 ---
 
-### ⚡ [Real-Time Event Processing Platform](https://github.com/tushar27x)
+### ⚡ [Real-Time Event Processing Platform](https://github.com/tushar27x/kafka-event-processing-platform)
 > Production-grade event-driven system with idempotent consumers and full observability
 
 `Java` `Spring Boot` `Apache Kafka` `PostgreSQL` `Redis` `Prometheus` `Grafana`
