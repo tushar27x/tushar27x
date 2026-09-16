@@ -54,6 +54,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**AI / RAG**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E40C9?style=flat-square&logo=databricks&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
+
 **DevOps & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,6 +78,17 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 [Socratese — Socratic RAG CLI over Obsidian Notes](https://github.com/tushar27x/socratese-cli)
+> CLI RAG tool that turns your Obsidian vault into a Socratic study partner — recall and review existing notes, then get quizzed to actively learn new ones
+
+`Python` `ChromaDB` `RAG` `CLI` `Embeddings`
+
+- Retrieval pipeline over Obsidian notes using ChromaDB embeddings for fast, relevant recall
+- Socratic-method question flow to drive active learning instead of passive note re-reading
+- Built end-to-end in Neovim as a hands-on deep dive into retrieval/embeddings fundamentals
+
+---
 
 ### 🔍 [InsightsHub — GitHub Analytics Platform](https://github.com/tushar27x/insight_hub)
 > AI-powered developer analytics engine using LLMs to generate automated code behaviour insights
@@ -105,6 +121,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tushar27x&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
+</div>
+
+## 🔥 Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.io/6E40C9/tushar27x" alt="Tushar's GitHub contribution heatmap" />
 </div>
 
 ---
