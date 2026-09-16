@@ -123,10 +123,10 @@
   <img src="https://streak-stats.demolab.com?user=tushar27x&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" />
 </div>
 
-## 🔥 Contribution Heatmap
+## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.io/6E40C9/tushar27x" alt="Tushar's GitHub contribution heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar27x&theme=react-dark&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FFFFFF" alt="Tushar's GitHub contribution activity graph" />
 </div>
 
 ---
